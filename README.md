@@ -62,7 +62,7 @@ A full-stack web application for managing university registration and administra
 </p>
 
 <p align="center">
-  <img src="screenshots_fyp/StudentsApprovalDetailsOld.png" width="750">
+  <img src="screenshots_fyp/StudentsApprovalDetails.png" width="750">
 </p>
 
 ### Courses
